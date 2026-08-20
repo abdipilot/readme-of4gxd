@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abdipilot.github.io/readme-of4gxd/sitemap.xml
